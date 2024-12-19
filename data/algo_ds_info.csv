@@ -1,0 +1,58 @@
+problem_id,problem_type,problem_name,difficulty,skills,max_score
+0,algorithms,day-of-the-programmer,Easy,Basic,15
+1,algorithms,time-conversion,Easy,Basic,15
+2,algorithms,sock-merchant,Easy,Basic,10
+3,algorithms,utopian-tree,Easy,Basic,20
+4,algorithms,append-and-delete,Easy,Basic,20
+5,algorithms,taum-and-bday,Easy,Basic,25
+6,algorithms,service-lane,Easy,Basic,20
+7,algorithms,absolute-permutation,Medium,Intermediate,40
+8,algorithms,insertionsort1,Easy,Basic,30
+9,algorithms,pangrams,Easy,Basic,20
+10,algorithms,closest-numbers,Easy,Basic,35
+11,algorithms,game-of-thrones,Easy,Basic,30
+12,algorithms,count-strings,Hard,Null,80
+13,algorithms,similar-strings,Advanced,Null,85
+14,algorithms,gridland-metro,Medium,Intermediate,25
+15,algorithms,maximizing-mission-points,Hard,Null,70
+16,algorithms,playing-with-numbers,Hard,Null,70
+17,algorithms,bfsshortreach,Medium,Advanced,55
+18,algorithms,beautiful-path,Medium,Null,50
+19,algorithms,johnland,Medium,Null,60
+20,algorithms,bytelandian-tours,Hard,Null,90
+21,algorithms,quadrant-queries,Advanced,Null,100
+22,algorithms,tsp-grid,Expert,Null,100
+23,algorithms,marcs-cakewalk,Easy,Basic,15
+24,algorithms,greedy-florist,Medium,Basic,35
+25,algorithms,accessory-collection,Hard,Null,60
+26,algorithms,construct-the-array,Medium,Intermediate,35
+27,algorithms,prime-xor,Medium,Null,50
+28,algorithms,summing-pieces,Medium,Null,40
+29,algorithms,taras-beautiful-permutations,Hard,Null,70
+30,algorithms,play-game,Medium,Null,55
+31,algorithms,counting-road-networks,Expert,Null,90
+32,algorithms,a-super-hero,Hard,Null,80
+33,algorithms,travel-around-the-world,Medium,Null,120
+34,algorithms,zurikela,Hard,Null,80
+35,algorithms,tree-pruning,Advanced,Null,100
+36,algorithms,count-ways-1,Expert,Null,100
+37,algorithms,yet-another-minimax-problem,Medium,Null,30
+38,algorithms,manipulative-numbers,Hard,Null,55
+39,algorithms,the-power-sum,Medium,Intermediate,20
+40,algorithms,repeat-k-sums,Advanced,Null,150
+41,algorithms,tower-breakers-again-1,Medium,Null,30
+42,algorithms,bob-and-ben,Medium,Null,50
+43,algorithms,vertical-rooks,Medium,Null,90
+44,algorithms,zig-zag-sequence,Medium,Basic,40
+45,data structures,dynamic-array,Easy,Basic,15
+46,data structures,delete-a-node-from-a-linked-list,Easy,Basic,5
+47,data structures,reverse-a-doubly-linked-list,Easy,Intermediate,5
+48,data structures,swap-nodes-algo,Medium,Advanced,40
+49,data structures,median,Hard,Intermediate,70
+50,data structures,find-the-running-median,Hard,Advanced,50
+51,data structures,poisonous-plants,Hard,Advanced,70
+52,data structures,jim-and-the-skyscrapers,Medium,Null,60
+53,data structures,functional-palindromes,Advanced,Null,80
+54,data structures,almost-sorted-interval,Expert,Null,100
+55,data structures,triplets,Advanced,Null,90
+56,data structures,helix,Advanced,Null,150
