@@ -7,10 +7,16 @@ import os
 current_dir = os.path.dirname(os.path.abspath(__file__))
 model_path = os.path.join(current_dir, '..', 'model', 'model.pkl')
 model = joblib.load(model_path)
-country_freq = joblib.load('model/country_freq.pkl')
-difficulty_encoder = joblib.load('model/difficulty_encoder.pkl')
-prog_lang_encoder = joblib.load('model/prog_lang_encoder.pkl')
-problem_names_encoder = joblib.load('model/problem_names_encoder.pkl')
+country_freq_path = os.path.join(current_dir, '..', 'model', 'country_freq.pkl')
+difficulty_encoder_path = os.path.join(current_dir, '..', 'model', 'difficulty_encoder.pkl')
+prog_lang_encoder_path = os.path.join(current_dir, '..', 'model', 'prog_lang_encoder.pkl')
+problem_names_encoder_path = os.path.join(current_dir, '..', 'model', 'problem_names_encoder.pkl')
+
+country_freq = joblib.load(country_freq_path)
+difficulty_encoder = joblib.load(difficulty_encoder_path)
+prog_lang_encoder = joblib.load(prog_lang_encoder_path)
+problem_names_encoder = joblib.load(problem_names_encoder_path)
+
 
 
 available_countries = list(country_freq.keys())
