@@ -3,7 +3,10 @@ import pandas as pd
 import joblib
 
 # Load model and encoders
-model = joblib.load('model/model.pkl')
+import os
+current_dir = os.path.dirname(os.path.abspath(__file__))
+model_path = os.path.join(current_dir, '..', 'model', 'model.pkl')
+model = joblib.load(model_path)
 country_freq = joblib.load('model/country_freq.pkl')
 difficulty_encoder = joblib.load('model/difficulty_encoder.pkl')
 prog_lang_encoder = joblib.load('model/prog_lang_encoder.pkl')
