@@ -19,7 +19,9 @@ The model uses machine learning to analyze your input data:
 - **Deadline**: The date by which you aim to complete your goal.
 - **Historical Performance**: Data from your previous coding progress.
 
-Based on this, it predicts your progress and provides suggestions for optimization.**Note**: The progress prediction and optimization suggestions feature is still under development. Stay tuned for updates!
+Based on this, it predicts your progress and provides suggestions for optimization.
+
+**Note**: The progress prediction and optimization suggestions feature is still under development. Stay tuned for updates!
 
 ---
 
