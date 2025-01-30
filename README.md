@@ -1,5 +1,30 @@
-# Welcome to the Personalized Coding Goals and Progress Tracker
-It is  a machine learning model to help users set, track, and predict progress toward their coding goals. 
-The model predicts the likelihood of goal completion based on user inputs such as target percentage, deadline, and historical performance data, providing insights into progress and performance optimization.
-Check out the live demo at the link below
-https://ibdiptg4cxbxbrq9fxnmhx.streamlit.app/
+# Personalized Coding Goals and Progress Tracker
+
+Welcome to the **Personalized Coding Goals and Progress Tracker**! This tool leverages machine learning to help you set, track, and predict progress toward your coding goals.
+
+---
+
+### Features
+- **Personalized Goal Tracking**: Set your coding goals with a target percentage and deadline.
+- **Progress Prediction**: Predict the likelihood of achieving your goal based on historical data and input.
+- **Performance Insights**: Receive tips on how to optimize your progress.
+- **User-Friendly Interface**: Simple, intuitive design for easy input and feedback.
+
+---
+
+### How It Works
+
+The model uses machine learning to analyze your input data:
+- **Target Percentage**: The percentage of your goal you want to achieve.
+- **Deadline**: The date by which you aim to complete your goal.
+- **Historical Performance**: Data from your previous coding progress.
+
+Based on this, it predicts your progress and provides suggestions for optimization.
+
+---
+
+### Try It Now
+
+Check out the live demo and see how the Personalized Coding Goals and Progress Tracker can help you reach your coding milestones!
+
+[Live Demo](https://ibdiptg4cxbxbrq9fxnmhx.streamlit.app/)
